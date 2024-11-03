@@ -1,6 +1,6 @@
 # Overview
 
-{In this project, I developed a Music Playlist Manager as part of my learning journey in software engineering. The application allows users to create and manage playlists by adding, modifying, and deleting songs stored in a cloud database. The focus of this project was to implement CRUD functionalities (Create, Read, Update, Eliminnate) to gain experience in cloud database integration and enhance my understanding of backend interactions in web applications.}
+{In this project, I have developed a Music Playlist Manager as part of my learning journey in software engineering. The application allows users to create and manage playlists by adding, modifying, and deleting songs stored in a cloud database. The focus of this project was to implement CRUD functionalities (Create, Read, Update, Eliminnate) to gain experience in cloud database integration and enhance my understanding of backend interactions in web applications.}
 
 {The Music Playlist Manager is easy to use: users can create playlists, add or remove songs, and view or edit song details. The cloud database stores each song’s information, allowing persistent data access from any device. The program also supports data retrieval for easy playlist sharing.}
 
